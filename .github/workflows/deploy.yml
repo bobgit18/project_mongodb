@@ -9,7 +9,7 @@ env:
 jobs:
   test:
     env:
-      MONGODB_CLUSTER_DATABASE: cluster0.dixmsfj.mongodb.net
+      MONGODB_CLUSTER_ADDRESS: cluster0.dixmsfj.mongodb.net
       MONGODB_USERNAME: bgadmin
       MONGODB_PASSWORD: GxupZfpodZYZBR56
       PORT: 8080
